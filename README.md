@@ -31,7 +31,7 @@ I have a system of tags, I mostyle begin all my comments on a review with `(tag)
 - 👯 I’m looking to collaborate on OSS, mainly on: vue stuff; or vim stuff; or lint stuff; or I donno, hit me up :smile:
 - 🤔 I’m looking for help with ...
   - my side project [timedReport](https://github.com/vhoyer/timedReport/) which real people use, but the code is shitty
-- 💬 Ask me about anything really, I will do my absolute best to anwser you appropriately :smile:
+- 💬 Ask me about anything really, I will do my absolute best to anwser you appropriately :smile: if you want, you can even ask on [this repo's issues](https://github.com/vhoyer/vhoyer/issues)
 - 📫 How to reach me at my personal website: https://www.google.com/search?q=vhoyer.dev <abbr title="by the way">btw</abbr>, if you are thinking why left the google link, it's to get better SEO stats; :v: peace
 - 😄 Pronouns:
   - he/him/his (English)
