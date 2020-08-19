@@ -24,6 +24,7 @@ I have a system of tags, I mostyle begin all my comments on a review with `(tag)
 - 🔭 I’m currently working on ...
   - ctrl-money: [app](http://ctrlmoney.web.app/), [repo](https://github.com/money-ctrl/react-client)
   - pong.js: it's kinda a proto game engine [repo](https://github.com/vhoyer/pong.js) (plus a pong clone)
+  - nwsp: a starting point to anyone wanting to play around with npm+ecosystems (something I found very daunting when I first started): check [this repo out](https://github.com/vhoyer/nwsp), it is also a github template.
 - 🌱 I’m currently learning ...
   - music theory/piano (I want to learn how to sight read music sheets :smile:)
   - japanese
