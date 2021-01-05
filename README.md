@@ -30,6 +30,7 @@ This is a place I'm putting messages that made me happy, if you want to leave an
   </details>
 
 - <details><summary>🔭 I’m currently working on ...</summary>
+  
   - ctrl-money: [app](http://ctrlmoney.web.app/), [repo](https://github.com/money-ctrl/react-client)
   - pong.js: it's kinda a proto game engine [repo](https://github.com/vhoyer/pong.js) (plus a pong clone)
   - nwsp: a starting point to anyone wanting to play around with npm+ecosystems (something I found very daunting when I first started): check [this repo out](https://github.com/vhoyer/nwsp), it is also a github template.
@@ -37,6 +38,7 @@ This is a place I'm putting messages that made me happy, if you want to leave an
   </details>
   
 - <details><summary>🌱 I’m currently learning ...</summary>
+  
   - music theory/piano (I want to learn how to sight read music sheets :smile:)
   - japanese
   - how to use twitter
@@ -45,6 +47,7 @@ This is a place I'm putting messages that made me happy, if you want to leave an
   
 - 👯 I’m looking to collaborate on OSS, mainly on: vue stuff; or vim stuff; or lint stuff; or I donno, hit me up :smile:
 - <details><summary>🤔 I’m looking for help with ...</summary>
+  
   - my side project [timedReport](https://github.com/vhoyer/timedReport/) which real people use, but the code is shitty
   
   </details>
@@ -54,6 +57,7 @@ This is a place I'm putting messages that made me happy, if you want to leave an
 - 📫 How to reach me at my personal website: https://www.google.com/search?q=vhoyer.dev <abbr title="by the way">btw</abbr>, if you are thinking why left the google link, it's to get better SEO stats; :v: peace
 
 - <details><summary>😄 Pronouns:</summary>
+  
   - he/him/his (English)
   - ele/dele (português)
   - 彼?/彼の? :joy: :shrug: ~donno japanese good enough yet to know if this is a thing, whatever~ (日本語)
