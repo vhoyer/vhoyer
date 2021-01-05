@@ -2,6 +2,15 @@
 
 Check out my little personal website: <https://vhoyer.dev>
 
+#### Message board
+
+This is a place I'm putting messages that made me happy, if you want to leave any message, open a PR!
+
+> [...] you're such a god in css dude [...] <br>
+> -- [@johannchopin](https://github.com/johannchopin)
+
+#### Random things about me!
+
 - <details><summary>:white_check_mark:  How I do pull request reviews</summary>
 
   I have a system of tags, I mostyle begin all my comments on a review with `(tag)`, while tag can be:
