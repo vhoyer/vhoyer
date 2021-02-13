@@ -1,6 +1,6 @@
 ### Hi there 👋 get to know me a little better
 
-Check out my little personal website: <https://vhoyer.dev>
+Check out my little personal website: <https://vhoyer.dev><br>
 Read my blog: <https://blog.vhoyer.dev>
 
 #### Message board
