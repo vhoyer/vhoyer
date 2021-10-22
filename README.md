@@ -11,7 +11,7 @@ This is a place I'm putting messages that made me happy, if you want to leave an
 > -- [@johannchopin](https://github.com/johannchopin)
 > 
 > (pt-br) Hoyer, você é um monstrinho <br>
-> (en) Hoyer, you are a little monster <br>
+> (en) Hoyer, you are a little beast <br>
 > -- [@marcelofraga](https://github.com/marcelofraga)
 
 #### Random things about me!
