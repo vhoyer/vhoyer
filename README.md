@@ -3,6 +3,8 @@
 Check out my little personal website: <https://vhoyer.dev><br>
 Read my blog: <https://blog.vhoyer.dev>
 
+[![vhoyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhoyer&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Message board
 
 This is a place I'm putting messages that made me happy, if you want to leave any message, open a PR!
