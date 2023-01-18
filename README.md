@@ -16,7 +16,7 @@ This is a place I'm putting messages that made me happy, if you want to leave an
 > (en) Hoyer, you are a little beast <br>
 > -- [@marcelofraga](https://github.com/marcelofraga)
 >
-> This is so nice!! Thanks for the improvement @vhoyer heart <br>
+> This is so nice!! Thanks for the improvement @vhoyer :heart: <br>
 > -- [@carloscuesta](https://github.com/carloscuesta)
 
 #### Random things about me!
