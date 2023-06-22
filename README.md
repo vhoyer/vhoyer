@@ -10,14 +10,14 @@ Read my blog: <https://blog.vhoyer.dev>
 This is a place I'm putting messages that made me happy, if you want to leave any message, open a PR!
 
 > [...] you're such a god in css dude [...] <br>
-> -- [@johannchopin](https://github.com/johannchopin)
+> -- [@johannchopin](https://github.com/carloscuesta/gitmoji/pull/671#discussion_r551386670)
 > 
 > (pt-br) Hoyer, você é um monstrinho <br>
 > (en) Hoyer, you are a little beast <br>
 > -- [@marcelofraga](https://github.com/marcelofraga)
 >
 > This is so nice!! Thanks for the improvement @vhoyer :heart: <br>
-> -- [@carloscuesta](https://github.com/carloscuesta)
+> -- [@carloscuesta](https://github.com/carloscuesta/gitmoji/pull/1282#pullrequestreview-1254082852)
 
 #### Random things about me!
 
